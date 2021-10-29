@@ -1,0 +1,14 @@
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.AssemblyReference.cache
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\c#Code\UdemyCourse\Classes\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
