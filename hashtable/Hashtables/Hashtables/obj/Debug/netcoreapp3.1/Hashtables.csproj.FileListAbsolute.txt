@@ -1,0 +1,14 @@
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\bin\Debug\netcoreapp3.1\Hashtables.exe
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\bin\Debug\netcoreapp3.1\Hashtables.deps.json
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\bin\Debug\netcoreapp3.1\Hashtables.runtimeconfig.json
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\bin\Debug\netcoreapp3.1\Hashtables.runtimeconfig.dev.json
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\bin\Debug\netcoreapp3.1\Hashtables.dll
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\bin\Debug\netcoreapp3.1\Hashtables.pdb
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\obj\Debug\netcoreapp3.1\Hashtables.csproj.AssemblyReference.cache
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\obj\Debug\netcoreapp3.1\Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\obj\Debug\netcoreapp3.1\Hashtables.AssemblyInfoInputs.cache
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\obj\Debug\netcoreapp3.1\Hashtables.AssemblyInfo.cs
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\obj\Debug\netcoreapp3.1\Hashtables.csproj.CoreCompileInputs.cache
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\obj\Debug\netcoreapp3.1\Hashtables.dll
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\obj\Debug\netcoreapp3.1\Hashtables.pdb
+D:\c#Code\UdemyCourse\hashtable\Hashtables\Hashtables\obj\Debug\netcoreapp3.1\Hashtables.genruntimeconfig.cache
