@@ -1,0 +1,14 @@
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\bin\Debug\netcoreapp3.1\employees.exe
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\bin\Debug\netcoreapp3.1\employees.deps.json
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\bin\Debug\netcoreapp3.1\employees.runtimeconfig.json
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\bin\Debug\netcoreapp3.1\employees.runtimeconfig.dev.json
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\bin\Debug\netcoreapp3.1\employees.dll
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\bin\Debug\netcoreapp3.1\employees.pdb
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\obj\Debug\netcoreapp3.1\employees.csproj.AssemblyReference.cache
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\obj\Debug\netcoreapp3.1\employees.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\obj\Debug\netcoreapp3.1\employees.AssemblyInfoInputs.cache
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\obj\Debug\netcoreapp3.1\employees.AssemblyInfo.cs
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\obj\Debug\netcoreapp3.1\employees.csproj.CoreCompileInputs.cache
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\obj\Debug\netcoreapp3.1\employees.dll
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\obj\Debug\netcoreapp3.1\employees.pdb
+D:\c#Code\UdemyCourse\inheritanceExercises\employees\employees\obj\Debug\netcoreapp3.1\employees.genruntimeconfig.cache
